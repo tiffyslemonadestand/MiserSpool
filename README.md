@@ -3,6 +3,9 @@
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 Source files to reproduce the MiserSpool, a 100G spool for filament samples.
+
+A simple cardboard spool designed originally for 100G filament samples.
+
 ![MiserSpool][miser-spool]
 
 This work is licensed under a
